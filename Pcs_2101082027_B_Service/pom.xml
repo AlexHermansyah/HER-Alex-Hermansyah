@@ -8,8 +8,8 @@
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.taufiq</groupId>
-	<artifactId>Pcs_2101082049_B_Service</artifactId>
+	<groupId>com.alex</groupId>
+	<artifactId>Pcs_2101082027_B_Service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PCS_2101082027_B_Service</name>
 	<description>Demo project for Spring Boot</description>
